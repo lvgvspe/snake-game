@@ -53,7 +53,7 @@ function iniciarJogo(){
     }
 
     criarBG();
-    criarCobrinha();
+    criarCobrinha();n
     drawFood();
 
     let snakeX = snake[0].x;
