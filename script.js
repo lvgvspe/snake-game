@@ -20,4 +20,3 @@ function criarCobrinha(){
 }
 
 criarBG();
-criarCobrinha();
