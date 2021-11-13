@@ -6,6 +6,7 @@ snake [0] = {
     x: 8 * box,
     y: 8 * box
 }
+let direction = "right";
 
 function criarBG() {
     context.fillStyle="lightgreen";
